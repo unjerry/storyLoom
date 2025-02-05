@@ -15,7 +15,10 @@
         },
         "「.*?」": {
             "color": "#84e2ff"
-        }
+        },
+        "“.*?”": {
+            "color": "#84e2ff"
+        },
     },
     "noveler.confCSVFiles": [
         {
@@ -30,7 +33,7 @@
             "hoverKey": "hoverKey",
             // 高亮配置，结构为DecorationRenderOptions
             "decorationRenderOptions": {
-                "color": "#2ed5cf"
+                "color": "#00e1ac"
             }
         },
     ],
